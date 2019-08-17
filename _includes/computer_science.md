@@ -112,3 +112,16 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
 
 ### Javascript Number Puzzle
 
+This project is using Javascript to implement the sliding number puzzle.
+I absolutely love the sliding number puzzle and have had an app on my phone 
+for it for years, and am very fast at it (I never get a chance to brag about that).
+
+This project involved breaking up an image into separate divs, and finding a way 
+to swap locations on click. I chose to use the JS position attribute and keep track 
+of a dummy 16th div that would swap when applicable. 
+![15 sliding number puzzle](/images/fifteen.png)
+
+Since this assignment was forward-facing on student virtual machines and 
+did not use anything but HTML, CSS, and JS, it is totally fair game 
+to show off the final game on this site! 
+Check it out [here!](/puzzle/fifteen.html)
