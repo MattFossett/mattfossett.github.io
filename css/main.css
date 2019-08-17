@@ -15,7 +15,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-li > a {
+a {
     text-decoration: none;
     color: #6d5959;
 }
@@ -45,6 +45,3 @@ ul.posts li {
     list-style: none;
 }
 
-a {
-    text-decoration: underline;
-}
