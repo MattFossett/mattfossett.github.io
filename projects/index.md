@@ -11,10 +11,10 @@ title: Projects
 
 {% include speed_calculator.md %}
 
-[Back to index](#projects)
+*[Back to index](#projects)*
 
 ***
 
 {% include computer_science.md %}
 
-[Back to index](#projects)
+*[Back to index](#projects)*

@@ -1,4 +1,4 @@
-## [Vehicle Speed Calculator](https://github.com/MattFossett/vehicle-speed-calculator)
+# [Vehicle Speed Calculator](https://github.com/MattFossett/vehicle-speed-calculator)
 
 Small Java project designed to calculate the speed of an object given its length and the 
 time taken to go from point A to B. 
@@ -6,11 +6,11 @@ This Object will also solve for any single unknown variable between length, time
 This small project was started because my travel from Lancaster to Philadelphia
 via Amtrak was very fascinating to me, so I had footage of passing trains and was curious of the speeds. 
 
-### Example Case:
+## Example Case:
 > A video taken from a fixed position shows a train passing. Wikipedia has the exact length of one of the train cars. The front of one of the train cars exits the screen, then 3 seconds later the back of that train car exits the screen. 
 Now we have: Length, and seconds it took to move that length.
 
-### Vehicle Object Constructor:
+## Vehicle Object Constructor:
 [Vehicle.java](https://github.com/MattFossett/Vehicle-Speed-Calculator/blob/master/Vehicle.java)
 ```java
 /**
@@ -41,7 +41,7 @@ public Vehicle(double lengthInFeet, double seconds,double MPH){
 }
 ```
 
-### Driver Example
+## Driver Example
 Here is an example using [VehicleDriver.java](https://github.com/MattFossett/Vehicle-Speed-Calculator/blob/master/VehicleDriver.java)
 
 After taking a video of a passing train we can find that the length of a single car is [85.3 feet long](https://en.wikipedia.org/wiki/Amfleet). 
