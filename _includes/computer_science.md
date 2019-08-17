@@ -1,4 +1,4 @@
-## Computer Science Labs
+# Computer Science Labs
 
 Millersville University Computer Science Professors ask that 
 the assignments are not publically available but they highly 
@@ -6,7 +6,7 @@ encourage the use of a private repository. My full coursework is
 available upon request. Here are some highlights of my favorite 
 assignments.
 
-### Binary Search Tree
+## Binary Search Tree
 
 This lab is known for being complicated and I enjoyed the 
 challenge. There are so many cases to think through when implementing
@@ -49,7 +49,7 @@ increment (ConstNodePtr n)
   }
 ```
 
-### Complex Sorting Algorithms
+## Complex Sorting Algorithms
 
 This lab tasked me with implementing Insertion sort, Mergesort, 
 Quicksort, and Shellsort. This lab was very complicated 
@@ -79,7 +79,7 @@ Table of Results:
 */
 ```
 
-### Nerdluv
+## Nerdluv
 
 This lab was from the Database/Web Design class and was very fun to implement. 
 I was tasked with making an Online Dating website called Nerdluv. 
@@ -110,18 +110,35 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
 }
 ```
 
-### Javascript Number Puzzle
+## Javascript Number Puzzle
 
-This project is using Javascript to implement the sliding number puzzle.
 I absolutely love the sliding number puzzle and have had an app on my phone 
-for it for years, and am very fast at it (I never get a chance to brag about that).
+for it for years. I have gotten very fast at it (I never get a chance to brag about that).
 
 This project involved breaking up an image into separate divs, and finding a way 
 to swap locations on click. I chose to use the JS position attribute and keep track 
-of a dummy 16th div that would swap when applicable. 
+of a dummy 16th div that would swap when applicable. Jquery was very helpful since 
+it gave very simple selectors for finding positions. 
+
 ![15 sliding number puzzle](/images/fifteen.png)
+
+Here is a helper function I used that highlights the heavy use of 
+Jquery selectors and the .position() function in JS. 
+```js
+// Returns the matching index of the div based on its .position()
+function getIndex(position) {
+  for (var i = 1; i < 16; i++) {
+    var x = $('#puzzlearea > div:nth-child(' + i + ')').position();
+    if (equalPositions(position, x)) {
+      return i;
+    }
+  }
+  return -1;
+}
+```
 
 Since this assignment was forward-facing on student virtual machines and 
 did not use anything but HTML, CSS, and JS, it is totally fair game 
 to show off the final game on this site! 
 Check it out [here!](/puzzle/fifteen.html)
+
