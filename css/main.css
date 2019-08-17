@@ -48,7 +48,3 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-code {
-    overflow: scroll;
-}
