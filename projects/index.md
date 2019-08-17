@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 ---
-[Speed Calculator](#Vehicle-Speed-Calculator)
+1. [Vehicle Speed Calculator](#vehicle-speed-calculator)
 
 
 ***
