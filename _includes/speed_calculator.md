@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hello
+---
+
 ## [Vehicle Speed Calculator](https://github.com/MattFossett/Vehicle-Speed-Calculator)
 
 Small Java project designed to calculate the speed of an object given its length and the 
