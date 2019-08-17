@@ -92,7 +92,8 @@ This lab was done using the LAMP stack, so all of the backend work is with PHP.
 The most interesting aspect of this lab to me was that we had to make an API that 
 handled the requests. The API did all of the SQL work and returned JSON. 
 
-Here is a user's perspective when they view their matches:
+Here is a user's perspective when they view their matches: 
+
 ![dating profiles that match the user](/images/nerdluv.png)
 
 Here is the API file logic when a match is requested. 
@@ -154,6 +155,7 @@ that it contains an array of block pointers so each file may
 not necessarily have all of its contents stored contiguously. 
 
 Here is a diagram from Professor Killian's prompt illustrating the idea.
+
 ![how our filesystem works](/images/filesystem.png)
 
 Here is some sample code illustrating the C data types
