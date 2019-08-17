@@ -97,7 +97,7 @@ Here is a user's perspective when they view their matches:
 
 Here is the API file logic when a match is requested. 
 The last line will output matches to JSON.
-```PHP
+```php
 if ($_SERVER["REQUEST_METHOD"] == "GET") {
 	# process a GET request
 	$name = $_GET["name"];
