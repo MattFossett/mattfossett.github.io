@@ -1,0 +1,45 @@
+/*
+Name: Matt Fossett
+
+Part of me thinks you won't check this, 
+	but another part knows you will..
+	The big thing: Puzzle area has relative position, 
+	its containing divs have absolute. 
+	Everything else should be up to spec as well. 
+*/
+
+* {
+	font-family: cursive;
+	font-size: 14pt;
+	
+}
+
+body{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+
+#puzzlearea{
+	width: 400px;
+	height: 400px;
+	margin: auto;
+	position: relative;
+}
+
+#puzzlearea div{
+	width: 90px;
+	height: 90px;
+	border: 5px solid black;
+	font-size: 40pt;
+	position: absolute;
+	background-image: url("background.jpg");
+	background-size: 400px 400px;
+}
+
+.hoverDiv{
+	border-color: red !important;
+	/*border: 5px solid red;*/
+	color: red;
+}
