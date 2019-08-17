@@ -142,3 +142,45 @@ did not use anything but HTML, CSS, and JS, it is totally fair game
 to show off the final game on this site! 
 Check it out [here!](/puzzle/fifteen.html)
 
+## Filesystem
+
+This Operating Systems lab has us implement a filesystem given a formatted disk file. 
+This lab is designed to learn how blocks are stored within 
+a disk. The first block is called the Super Block and 
+contains a bitvector of free or used blocks, and 16 inodes.
+The inodes hold information about each of the 16 allowed files
+in this small filesystem. The key takeaway of the inode is 
+that it contains an array of block pointers so each file may 
+not necessarily have all of its contents stored contiguously. 
+
+Here is a diagram from Professor Killian's prompt illustrating the idea.
+![how our filesystem works](/images/filesystem.png)
+
+Here is some sample code illustrating the C data types
+that were used in this filesystem, followed by some 
+brief bit manipulation used to store information. 
+
+```c
+struct superblock {
+    char[128] freeBlockList;
+    inode[15] nodes;
+}
+
+struct inode {
+    char name[16];
+    int size;
+    int blockPointers[8];
+    int used;
+}
+...
+{   // Code showing the use of moving a file descriptor,
+    // and storing data into a char array
+    lseek(fs->fildes, 0, SEEK_SET);
+    char freeList[128];
+    read(fs->fildes,freeList, 128);
+}
+```
+
+This lab was one of my favorites as it really solidified 
+the concepts associated with filesystems, and also highlighted
+the fact that a lot of these operations are not very complicated. 
