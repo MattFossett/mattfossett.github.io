@@ -3,5 +3,4 @@ layout: default
 title: Projects
 ---
 
-{% include test.md %}
-# sup
+{% include speed_calculator.md %}
