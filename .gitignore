@@ -1,1 +1,3 @@
 _site/
+source 'https://rubygems.org'
+Gemfile
