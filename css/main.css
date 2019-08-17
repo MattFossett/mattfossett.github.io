@@ -1,5 +1,9 @@
 @import "colorful.css";
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
