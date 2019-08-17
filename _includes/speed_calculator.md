@@ -13,33 +13,32 @@ Now we have: Length, and seconds it took to move that length.
 ### Vehicle Object Constructor
 [Vehicle.java](https://github.com/MattFossett/Vehicle-Speed-Calculator/blob/master/Vehicle.java)
 ```java
-         /**
-	 * Takes parameters and makes a vehicle object. 
-	 * INVARIANT: 
-	 * Vehicle will solve for ONE of these parameters. 
-	 * If any ONE of these is <0, it will be assigned to its correct value. 
-	 * 
-	 * @param lengthInFeet 
-	 * @param seconds
-	 * @param MPH
-	 */
-	public Vehicle(double lengthInFeet, double seconds,double MPH){
-		if(lengthInFeet<0 && seconds<0 || seconds < 0 && MPH < 0 ||
-				lengthInFeet < 0 && MPH < 0){
-			throw new IllegalArgumentException("Invalid Parameters");
-		}
-		this.length = lengthInFeet;
-		this.seconds = seconds;
-		this.speed = MPH;
-		if(this.length < 0){
-			this.length = 5280*(speed*seconds/3600);
-		} else if (this.seconds <0){
-			this.seconds = (length/5280)*speed;
-		} else if(this.speed <0){
-			this.speed = (this.length/5280)/(this.seconds/3600);
-		}
-		
-	}
+        /**
+    * Takes parameters and makes a vehicle object. 
+    * INVARIANT: 
+    * Vehicle will solve for ONE of these parameters. 
+    * If any ONE of these is <0, it will be assigned to its correct value. 
+    * 
+    * @param lengthInFeet 
+    * @param seconds
+    * @param MPH
+    */
+public Vehicle(double lengthInFeet, double seconds,double MPH){
+    if(lengthInFeet<0 && seconds<0 || seconds < 0 && MPH < 0 ||
+            lengthInFeet < 0 && MPH < 0){
+        throw new IllegalArgumentException("Invalid Parameters");
+    }
+    this.length = lengthInFeet;
+    this.seconds = seconds;
+    this.speed = MPH;
+    if(this.length < 0){
+        this.length = 5280*(speed*seconds/3600);
+    } else if (this.seconds <0){
+        this.seconds = (length/5280)*speed;
+    } else if(this.speed <0){
+        this.speed = (this.length/5280)/(this.seconds/3600);
+    }
+}
 ```
 
 ### Driver Example
