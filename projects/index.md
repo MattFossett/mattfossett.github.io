@@ -5,6 +5,7 @@ title: Projects
 # Projects
 
 * [Computer Science Labs](#computer-science-labs)
+* [Its Not Foss](#its-not-foss)
 * [Vehicle Speed Calculator](#vehicle-speed-calculator)
 
 ***
@@ -16,5 +17,11 @@ title: Projects
 ***
 
 {% include speed_calculator.md %}
+
+*[Back to index](#projects)*
+
+*** 
+
+{% include its_not_foss.md %}
 
 *[Back to index](#projects)*
