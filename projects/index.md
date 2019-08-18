@@ -4,17 +4,17 @@ title: Projects
 ---
 # Projects
 
-* [Vehicle Speed Calculator](#vehicle-speed-calculator)
 * [Computer Science Labs](#computer-science-labs)
+* [Vehicle Speed Calculator](#vehicle-speed-calculator)
 
 ***
 
-{% include speed_calculator.md %}
+{% include computer_science.md %}
 
 *[Back to index](#projects)*
 
 ***
 
-{% include computer_science.md %}
+{% include speed_calculator.md %}
 
 *[Back to index](#projects)*
