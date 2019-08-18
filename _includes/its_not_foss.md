@@ -1,3 +1,2 @@
----
-layout: default
----
+# its_not_foss
+
