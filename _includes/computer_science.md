@@ -1,4 +1,4 @@
-# Computer Science Labs
+## Computer Science Labs
 
 Millersville University Computer Science Professors ask that 
 the assignments are not publically available but they highly 
@@ -6,7 +6,7 @@ encourage the use of a private repository. My full coursework is
 available upon request. Here are some highlights of my favorite 
 assignments.
 
-## Binary Search Tree
+### Binary Search Tree
 
 This lab is known for being complicated and I enjoyed the 
 challenge. There are so many cases to think through when implementing
@@ -49,7 +49,7 @@ increment (ConstNodePtr n)
   }
 ```
 
-## Complex Sorting Algorithms
+### Complex Sorting Algorithms
 
 This lab tasked me with implementing Insertion sort, Mergesort, 
 Quicksort, and Shellsort. This lab was very complicated 
@@ -79,7 +79,7 @@ Table of Results:
 */
 ```
 
-## Nerdluv
+### Nerdluv
 
 This lab was from the Database/Web Design class and was very fun to implement. 
 I was tasked with making an Online Dating website called Nerdluv. 
@@ -111,7 +111,7 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
 }
 ```
 
-## Javascript Number Puzzle
+### Javascript Number Puzzle
 
 I absolutely love the sliding number puzzle and have had an app on my phone 
 for it for years. I have gotten very fast at it (I never get a chance to brag about that).
@@ -143,7 +143,7 @@ did not use anything but HTML, CSS, and JS, it is totally fair game
 to show off the final game on this site! 
 Check it out [here!](/puzzle/fifteen.html)
 
-## Filesystem
+### Filesystem
 
 This Operating Systems lab has us implement a filesystem given a formatted disk file. 
 This lab is designed to learn how blocks are stored within 
