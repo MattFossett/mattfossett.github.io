@@ -16,6 +16,7 @@ the cases that I could think through and it is now very interesting
 to look back at my train of thought.
 
 ```cpp
+ConstNodePtr
 increment (ConstNodePtr n)
   {
     //cases:
