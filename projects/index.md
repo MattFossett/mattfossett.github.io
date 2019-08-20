@@ -5,7 +5,7 @@ title: Projects
 # Projects
 
 * [Computer Science Labs](#computer-science-labs)
-* [Its Not Foss](#its-not-foss)
+* [Its Not Foss](#it's-not-foss)
 * [Vehicle Speed Calculator](#vehicle-speed-calculator)
 
 ***

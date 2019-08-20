@@ -1,4 +1,4 @@
-## [its_not_foss](https://github.com/MattFossett/its_not_foss)
+## [It's Not Foss](https://github.com/MattFossett/its_not_foss)
 
 The goal for this project was to make a web application
 that would be hosted locally in my apartment to share 
