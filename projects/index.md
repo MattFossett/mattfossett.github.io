@@ -5,7 +5,7 @@ title: Projects
 # Projects
 
 * [Computer Science Labs](#computer-science-labs)
-* [iMessage Clone](#iMessage-Clone) 
+* [iMessage Clone](#imessage-clone) 
 * [its_not_foss](#its_not_foss)
 * [Vehicle Speed Calculator](#vehicle-speed-calculator)
 
