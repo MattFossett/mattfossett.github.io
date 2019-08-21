@@ -9,8 +9,6 @@ title: Projects
 * [its_not_foss](#its_not_foss)
 * [Vehicle Speed Calculator](#vehicle-speed-calculator)
 
-{% include /additional/hello.md %}
-
 ***
 
 {% include computer_science.md %}
