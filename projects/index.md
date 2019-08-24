@@ -5,6 +5,7 @@ title: Projects
 # Projects
 
 * [Computer Science Labs](#computer-science-labs)
+* [Contact Info Portlet](#contact-info-portlet)
 * [iMessage Clone](#imessage-clone) 
 * [its_not_foss](#its_not_foss)
 * [Vehicle Speed Calculator](#vehicle-speed-calculator)
@@ -12,6 +13,12 @@ title: Projects
 ***
 
 {% include computer_science.md %}
+
+*[Back to index](#projects)*
+
+***
+
+{% include contact_info.md %}
 
 *[Back to index](#projects)*
 

@@ -5,7 +5,7 @@ designed to mimick the functionality of the iOS iMessage
 platform. Messages are _literaly_ stored with HTML 
 elements nested around them, plaintext in a file. 
 This is **not** meant to be a serious messaging platform, 
-but did teach me interesting style details and spark 
+but did teach me interesting style details and sparked 
 interest in a real chat platform! 
 
 ![photo of a conversation using this iMessage clone](/images/iMessage.png)
