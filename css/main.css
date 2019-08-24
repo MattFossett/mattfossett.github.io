@@ -23,7 +23,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #6d5959;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    /*font-family: 'Helvetica', 'Arial', 'Sans-Serif';*/
 }
 a:hover {
     text-decoration: underline;
@@ -56,12 +56,15 @@ ul.posts li {
 }
 
 img {
-    width: 100%;
+    width: 500px;
     height: auto;
 }
 
 @media only screen and (max-width: 750px) {
     body{
         width: 90%;
+    }
+    img {
+        width: 100%;
     }
 } 
