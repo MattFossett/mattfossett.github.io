@@ -49,8 +49,8 @@ that their form input could not be accepted. Since international phone
 numbers can be much longer I adapted the Regex to accept many acceptable 
 forms.
 
-*ContactInfo.java*
-```java
+
+```java *ContactInfo.java*
 if(name == "")
     sendToClient += "[Contact name] ";
 if (!number.matches("\\d*-?\\(?\\d{3}\\)?-?\\d{3}-?\\d{4}$"))
