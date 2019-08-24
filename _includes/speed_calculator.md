@@ -11,7 +11,7 @@ via Amtrak was very fascinating to me, so I had footage of passing trains and wa
 Now we have: Length, and seconds it took to move that length.
 
 ### Vehicle Object Constructor:
-[Vehicle.java](https://github.com/MattFossett/Vehicle-Speed-Calculator/blob/master/Vehicle.java)
+*[Vehicle.java](https://github.com/MattFossett/Vehicle-Speed-Calculator/blob/master/Vehicle.java)*
 ```java
 /**
 * Takes parameters and makes a vehicle object. 
