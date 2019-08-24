@@ -5,12 +5,25 @@ title: Projects
 # Projects
 
 * [Computer Science Labs](#computer-science-labs)
-* [Its Not Foss](#its-not-foss)
+* [iMessage Clone](#imessage-clone) 
+* [its_not_foss](#its_not_foss)
 * [Vehicle Speed Calculator](#vehicle-speed-calculator)
 
 ***
 
 {% include computer_science.md %}
+
+*[Back to index](#projects)*
+
+***
+
+{% include iMessage.md %}
+
+*[Back to index](#projects)*
+
+***
+
+{% include its_not_foss.md %}
 
 *[Back to index](#projects)*
 
@@ -22,6 +35,3 @@ title: Projects
 
 *** 
 
-{% include its_not_foss.md %}
-
-*[Back to index](#projects)*
