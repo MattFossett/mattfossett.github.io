@@ -10,7 +10,7 @@ via Amtrak was very fascinating to me, so I had footage of passing trains and wa
 > A video taken from a fixed position shows a train passing. Wikipedia has the exact length of one of the train cars. The front of one of the train cars exits the screen, then 3 seconds later the back of that train car exits the screen. 
 Now we have: Length, and seconds it took to move that length.
 
-### Vehicle Object Constructor:
+### Vehicle Object Constructor
 *[Vehicle.java](https://github.com/MattFossett/Vehicle-Speed-Calculator/blob/master/Vehicle.java)*
 ```java
 /**
