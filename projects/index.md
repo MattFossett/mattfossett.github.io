@@ -8,6 +8,8 @@ title: Projects
 * [Contact Info Portlet](#contact-info-portlet)
 * [iMessage Clone](#imessage-clone) 
 * [its_not_foss](#its_not_foss)
+* [Notes](#notes)
+* [UML Editor](#uml-editor)
 * [Vehicle Speed Calculator](#vehicle-speed-calculator)
 
 ***
@@ -31,6 +33,18 @@ title: Projects
 ***
 
 {% include its_not_foss.md %}
+
+*[Back to index](#projects)*
+
+***
+
+{% include notes.md %}
+
+*[Back to index](#projects)*
+
+***
+
+{% include uml_editor.md %}
 
 *[Back to index](#projects)*
 
