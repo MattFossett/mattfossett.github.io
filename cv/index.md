@@ -39,12 +39,12 @@ Software Engineering | Web Development | AWS Infrastructure
 
 ## Work Experience
 
-### **Software Developer** / Vanguard 
+### **Software Developer** / Vanguard : _6/2020-Present_ 
 * Constantly changing stack and tools:
-** Java Batch Job as ECS container
-** Cloudformation Templates for spinning up consistent infrastructure for projects
-** Python scripting and Glue ETL job on Data Lake
-** Angular for prototyping learning project
+   * Java Batch Job as ECS container
+   * Cloudformation Templates for spinning up consistent infrastructure for projects
+   * Python scripting and Glue ETL job on Data Lake
+   * Angular for prototyping learning project
 * Constant cross skilling and collaboration with development team
 * Fast paced agile development 
 
@@ -53,14 +53,16 @@ Software Engineering | Web Development | AWS Infrastructure
 * Tools include Git, Regex, data forms of JSON and XML
 * Emphasis on Independent Research, constantly expanding skills, team collaboration
 
-### **IT Help Desk Specialist** / Millersville University : _9/2017-Present_ 
+### **IT Help Desk Specialist** / Millersville University : _9/2017-5/2020_ 
 * Previously answered the Help Desk phone and helped troubleshoot remotely for students and faculty 
 * Currently operate in the Computer Science Mac Lab helping students specifically for Computer Science 
 * Learned and improved skills in communication, IT, problem solving and independent research
 
-### **Computer Science Grader** / Millersville University : _9/2018-Present_
+### **Computer Science Grader** / Millersville University : _9/2018-5/2020_
 * Collaborated with Dr. Nazli Hardy for CSCI 140: Discreet Structures
 * Collaborated with Dr. William Killian for CSCI 340: Computational Models
+* Collaborated with Dr. Stephanie Schwartz for CSCI 162: Java Programming 2
+* Collaborated with Dr. Gary Zoppetti for CSCI 362 and CSCI 380: Data Structures and Operating Systems
 * Grading thoroughly improves understanding of these subjects and ensures an understanding on **why** answers are wrong
 
 ### **Manager** / Superwok Chinese Restaurant : _10/2015-1/2019_
