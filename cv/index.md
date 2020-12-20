@@ -106,9 +106,9 @@ Software Engineering | Web Development | AWS Infrastructure
     
 ### AWS Developer Associate : _10/21/2020_
 * Completed certification validating knowledge in the following areas:
- * AWS Services such as S3, ECS, EC2, Lambda, Cloudformation, API Gateway, Kinesis, SQS, etc.
- * Understanding of the Code Pipeline and integration within aws
- * Developing and Debugging serverless applications
+    * AWS Services such as S3, ECS, EC2, Lambda, Cloudformation, API Gateway, Kinesis, SQS, etc.
+    * Understanding of the Code Pipeline and integration within aws
+    * Developing and Debugging serverless applications
 
 ### Computer Info Systems Certifications / Brandywine Technical College : _9/2014-6/2016_
 * Hands on approach that taught PC Hardware Troubleshooting and Network Configuration
