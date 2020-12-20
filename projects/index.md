@@ -4,6 +4,7 @@ title: Projects
 ---
 # Projects
 
+* [Professional Engineering Work](#professional-development-work)
 * [Computer Science Labs](#computer-science-labs)
 * [Contact Info Portlet](#contact-info-portlet)
 * [iMessage Clone](#imessage-clone) 
@@ -11,6 +12,12 @@ title: Projects
 * [Notes](#notes)
 * [UML Editor](#uml-editor)
 * [Vehicle Speed Calculator](#vehicle-speed-calculator)
+
+***
+
+{% include professional.md %}
+
+*[Back to index](#projects)*
 
 ***
 
