@@ -20,20 +20,21 @@ Software Engineering | Web Development | AWS Infrastructure
 
 ## Skills
 
-* **Object Oriented Programming** 3 Years experience with Java, C++, and C#
-* **Back-End Web Development** PHP LAMP, Python Flask, Java Liferay 
-* **Front-End Web Development** HTML, CSS, Vanilla JS, Bootstrap, API creation serving JSON and XML
+* **AWS Cloud Services** Certified Developer Associate with deep experience with S3, ECS, DataSync, Glue
+* **Object Oriented Programming** OOP Developer since 2017 with experience with Java, C++, and C#
+* **Back-End Web Development** Java Sprint, PHP LAMP, Python Flask
+* **Front-End Web Development** Angular, HTML, CSS, Vanilla JS, Bootstrap, API creation serving JSON and XML
 * **SQL** SQLite, MySQL, Sybase
-* **Collaborative Software Development Experience** 6 person team using Java with Maven, managed on Github
+* **Collaborative Software Development Experience** 
 * **Git Version Control Proficiency**
 * **Scripting** Python, Bash, Powershell
 * **Regular Expressions** 
 * **Functional Programming** Ocaml, F#, Lisp
 * **Game Engine** Unity for 2D and 3D Game Development, Scripting using C#
 * **Certifications**
-** AWS Developer Associate
-** Hardware with Testout PC Pro
-** Networking with Testout Network Pro
+  * AWS Developer Associate
+  * Hardware with Testout PC Pro
+  * Networking with Testout Network Pro
 
 ---------
 
