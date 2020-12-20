@@ -14,7 +14,7 @@ title: CV
 --------
 
 ## Interests
-Software Engineering | Web Development | Problem Solving 
+Software Engineering | Web Development | AWS Infrastructure 
 
 ---------
 
@@ -30,16 +30,28 @@ Software Engineering | Web Development | Problem Solving
 * **Regular Expressions** 
 * **Functional Programming** Ocaml, F#, Lisp
 * **Game Engine** Unity for 2D and 3D Game Development, Scripting using C#
-* **Certifications** Hardware with Testout PC Pro and Networking with Testout Network Pro
+* **Certifications**
+** AWS Developer Associate
+** Hardware with Testout PC Pro
+** Networking with Testout Network Pro
 
 ---------
 
 ## Work Experience
 
-### **Web Development Team** / Millersville University : _12/2018-Present_
+### **Software Developer** / Vanguard 
+* Constantly changing stack and tools:
+** Java Batch Job as ECS container
+** Cloudformation Templates for spinning up consistent infrastructure for projects
+** Python scripting and Glue ETL job on Data Lake
+** Angular for prototyping learning project
+* Constant cross skilling and collaboration with development team
+* Fast paced agile development 
+
+### **Web Development Team** / Millersville University : _12/2018-5/2020_
 * Stack includes HTML, CSS, JS, PHP, Java, MySQL and Sybase
 * Tools include Git, Regex, data forms of JSON and XML
-* Emphasis on Independent Research, constantly expanding skills, occasional team collaboration
+* Emphasis on Independent Research, constantly expanding skills, team collaboration
 
 ### **IT Help Desk Specialist** / Millersville University : _9/2017-Present_ 
 * Previously answered the Help Desk phone and helped troubleshoot remotely for students and faculty 
@@ -69,9 +81,9 @@ Software Engineering | Web Development | Problem Solving
 ## Education
 
 ### **Bachelor's in Computer Science** / Millersville University : _Expected Graduation May 2020_
-* Current Overall GPA: 3.64
-* Current Computer Science GPA: 3.70
-* Dean's List Semesters: Spring '17, Fall '17, Fall '18 Spring '19
+* Current Overall GPA: 3.72
+* Current Computer Science GPA: 3.79
+* Dean's List Semesters: Spring '17, Fall '17, Fall '18 Spring '19, Fall '19
 * **Note**: Full Transcript is Available upon Request, and most Computer Science Code is also Available upon Request
 * Computer Science Courses (and **brief** topic overview):
     * **Java Programming 1**: Thinking like a Computer Scientist, reading input, data types, OOP
@@ -86,6 +98,14 @@ Software Engineering | Web Development | Problem Solving
     * **Software Engineering**: Models of Software Design, Team organization, Sprint planning, Specifications for modeling/prototyping/functional specs, work in 6 person group building software for the entire semester
     * **Artificial Intelligence**: Lisp, Informed/uninformed Search, Data Representation, Machine Learning, Neural Nets
     * **Game Programming**: Unity and C#, implementing a variety of different video games and discussing brief technical implementation behind graphics and a broad overview of game mechanics
+    * **Computer Networks**: Learned about the foundations of the internet, how information is routed globally, and explored labs in low level socket programming
+    * **Parallel Programming**: Explored many problems and strategies in distributing work to multiple threads, cores and entire computers with technologies such as PySpark, OpenMP, CPP Threads/Processes
+    
+### AWS Developer Associate : _10/21/2020_
+* Completed certification validating knowledge in the following areas:
+** AWS Services such as S3, ECS, EC2, Lambda, Cloudformation, API Gateway, Kinesis, SQS, etc.
+** Understanding of the Code Pipeline and integration within aws
+** Developing and Debugging serverless applications
 
 ### Computer Info Systems Certifications / Brandywine Technical College : _9/2014-6/2016_
 * Hands on approach that taught PC Hardware Troubleshooting and Network Configuration
@@ -98,7 +118,7 @@ Software Engineering | Web Development | Problem Solving
 
 ---------
 
-## Activities
+## Activities 
 
 ### Millersville Cyber Defense Club : _9/2017-5/2019
 * Served as Secretary in 2018: Duties included taking minutes during meetings and managing student access to the various resources online
@@ -113,7 +133,7 @@ Software Engineering | Web Development | Problem Solving
     * Formed a Continuity of Operations plan that discussed the various ways of handling failures among all of the infrastructure
     * Enhanced team building skills and public speaking skills
 
-### Millersville Coding CLub: _1/2018-Present_
+### Millersville Coding Club : _1/2018-Present_
 * Serving as President of club for 2018-2019 school year, which includes:
     * Attending required club training 
     * Recruiting new members to join
